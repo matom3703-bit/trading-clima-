@@ -6,7 +6,7 @@ from math import inf
 st.set_page_config(page_title="Scanner Híbrido (Clima + Arbitraje)", layout="wide")
 st.title("🚨 Scanner Híbrido: Edge + Arbitraje (Clima)")
 
-API_KEY = "35c03c799c038ca54cf9cdbbd4fa0900"
+API_KEY = "4c6094160fecc79a1630075c68581638"
 
 # =========================
 # 1) POLYMARKET (markets)
